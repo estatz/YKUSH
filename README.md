@@ -5,6 +5,7 @@ YKUSH - Yepkit USB Switchable Hub
 *YKUSH USB Switchable Hub*](https://www.yepkit.com/products/ykush)
 
 
+YKUSH provides the capability, through software, to selectively turn ON and OFF each of the USB devices connected to the hub.
 
 
 License Information
