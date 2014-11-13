@@ -8,6 +8,15 @@ YKUSH - Yepkit USB Switchable Hub
 YKUSH provides the capability, through software, to selectively turn ON and OFF each of the USB devices connected to the hub.
 
 
+Repository Contents
+-------------------
+
+* **/Hardware** - PCB files and schematics
+* **/Firmware** - Board firmware source code
+* **/Software** - Linux command source code to be used in the host
+
+
+
 License Information
 -------------------
 
