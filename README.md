@@ -11,7 +11,6 @@ YKUSH provides the capability, through software, to selectively turn ON and OFF 
 Repository Contents
 -------------------
 
-* **/Hardware** - PCB files and schematics
 * **/Firmware** - Board firmware source code
 * **/Software** - Linux command source code to be used in the host
 
